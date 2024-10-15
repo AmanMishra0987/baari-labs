@@ -47,8 +47,8 @@ This is a web application for employees to track attendance and submit daily upd
 
 
 ## Clone the repository
-git clone https://github.com/AmanMishra0987/baari-labs.git
-cd baari-labs
+git clone https://github.com/AmanMishra0987/baari-labs-tracker-UI.git
+cd baari-labs-tracker-UI
 
 ## Install the dependencies
 npm install
