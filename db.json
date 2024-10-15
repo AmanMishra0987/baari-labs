@@ -1,0 +1,59 @@
+{
+  "employee": {
+    "id": 1,
+    "name": "Aman",
+    "email": "aman0987mishra@gmail.com"
+  },
+  "attendance": {
+    "status": "out",
+    "totalHours": 0.009158055555555555
+  },
+  "dailyUpdates": [
+    {
+      "id": "1",
+      "date": "2023-06-30",
+      "update": "Completed the frontend for Project A"
+    },
+    {
+      "id": "4b35",
+      "date": "2024-10-15",
+      "update": "complete first project"
+    },
+    {
+      "id": "c36e",
+      "date": "2024-10-15",
+      "update": "aman"
+    },
+    {
+      "id": "3842",
+      "date": "2024-10-15",
+      "update": "karo"
+    },
+    {
+      "id": "9469",
+      "date": "2024-10-15",
+      "update": "complete project"
+    },
+    {
+      "id": "f713",
+      "date": "2024-10-15",
+      "update": "project 1"
+    }
+  ],
+  "timesheet": [
+    {
+      "id": "1",
+      "date": "2023-06-30",
+      "projects": [
+        {
+          "name": "Project A",
+          "hours": 4
+        },
+        {
+          "name": "Project B",
+          "hours": 4
+        }
+      ]
+    }
+  ]
+}

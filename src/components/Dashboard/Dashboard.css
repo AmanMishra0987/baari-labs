@@ -1,0 +1,47 @@
+.dashboard-layout {
+    height: 560px;
+    background: #f0f2f5;
+  }
+  
+  .header-title {
+    color: #fff;
+    margin: 0;
+  }
+  
+  .dashboard-content {
+    padding-bottom: 30px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f0f2f5;
+  }
+  
+  .employee-card {
+    width: 100%;
+    max-width: 800px;
+    background-color: #ffffff;
+    padding-left: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-content {
+    text-align: center;
+  }
+  
+  .employee-name {
+    margin: 0;
+  }
+  
+  .date-time-info {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 16px;
+  }
+  
+  .attendance-actions {
+    margin-top: 20px;
+  }
+  
